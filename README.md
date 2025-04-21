@@ -12,7 +12,8 @@ This is a Flutter-based mobile application that demonstrates **real-time object 
 |-------------|------------------|
 | ![Main Screen](![WhatsApp Image 2025-04-21 at 01 09 07_77d271ff](https://github.com/user-attachments/assets/4b5b2b4e-c371-4bce-b9d6-f142777e4377)
 ) | ![Detection Screen](![WhatsApp Image 2025-04-21 at 01 09 07_98d1b12c](https://github.com/user-attachments/assets/99458bab-1504-4ac7-9bc5-4487e0f0734c)
-) |
+) |![Detection Screen](!![WhatsApp Image 2025-04-21 at 15 31 47_faba30e2](https://github.com/user-attachments/assets/b8a82e8d-37e6-42a3-a88d-dde5df3e59b0)
+)
 
 ---
 
